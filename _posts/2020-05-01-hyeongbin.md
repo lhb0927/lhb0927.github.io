@@ -1,6 +1,6 @@
 ---
 title: "Test Post1 - hb"
-category:freeboard
+category: freeboard
 ---
 
 Test post1
