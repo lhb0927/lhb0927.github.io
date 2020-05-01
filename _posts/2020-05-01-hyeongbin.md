@@ -1,6 +1,8 @@
 ---
-title:"Test Post1 - hb"
-category:freeboard
+title: "Test Post1 - hb"
+categories:freeboard
 ---
 
-TestPost
+Test post1
+
+Hello World!
